@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manlio Chite`</h1>
-<h3 align="center">A passionate IBMer Full-Stack Developer and Solution Architect from Messina, Italy now living the dream in London, UK</h3>
+<h3 align="center">A passionate Full-Stack Developer and Solution Architect from Messina, Italy now living the dream in London, UK</h3>
 
 <img align="right" width="400" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AEYmBYQj71zk0Qp8wYQDV4rT68OLovt3bGht_ZaKhytsUVpcWt_2-gRoMwJ9828NGgQ3BiVWirSms4w7-XSmOIsoeKmV10N0Hg=w1718-h1283" alt="Para Bellum" />
 
