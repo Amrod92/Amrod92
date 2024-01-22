@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/manliochite/)
 
-- ⚡ Fun fact **Formerly a kitchen chef working across Europe and the USA, I've now pivoted to coding and practising MMA. (Shh: I am still concocting culinary masterpieces 🤫)**
+- ⚡ Fun fact **Formerly a kitchen chef working across Europe and the USA, I've now pivoted to coding and practicing MMA. (Shh: I am still making culinary masterpieces 🤫)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
